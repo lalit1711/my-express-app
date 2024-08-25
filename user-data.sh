@@ -14,7 +14,7 @@ npm -v
 yum install -y git
 
 # Clone your Express application from a Git repository (replace <your-repo-url> with your Git repository URL)
-git clone <your-repo-url> /home/ec2-user/express-app
+git clone https://github.com/lalit1711/my-express-app /home/ec2-user/express-app
 
 # Change directory to the cloned repository
 cd /home/ec2-user/express-app
